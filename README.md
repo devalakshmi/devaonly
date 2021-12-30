@@ -1,2 +1,2 @@
-# devaonly
+# VDproject
 to create new webapplication 
